@@ -1,0 +1,30 @@
+{
+    "appKeys": {
+        "KEY_COLOR_BLUE": 2,
+        "KEY_COLOR_BLUE_T": 5,
+        "KEY_COLOR_GREEN": 1,
+        "KEY_COLOR_GREEN_T": 4,
+        "KEY_COLOR_RED": 0,
+        "KEY_COLOR_RED_T": 3
+    },
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "Jon V",
+    "longName": "Happy watch",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Happy watch",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "322e3cf2-3996-4605-ac91-f4bd196a1d1f",
+    "versionLabel": "1.1",
+    "watchapp": {
+        "watchface": true
+    }
+}
